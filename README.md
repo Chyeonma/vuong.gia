@@ -1,16 +1,14 @@
-# Personal Profile & Knowledge Hub
+# Personal Profile
 
-> *"Technology is the ultimate leverage, but vision and purpose define the trajectory."*
+Chào mừng bạn đến với kho lưu trữ nguồn (source repository) cho trang web cá nhân của tôi.
 
-Chào mừng bạn đến với kho lưu trữ nguồn (source repository) cho trang web cá nhân và hệ thống tri thức mở. 
-
-Dự án này không chỉ đơn thuần là một website portfolio lập trình, mà là một **bức chân dung kỹ thuật số toàn diện**: kết nối giữa nhân sinh quan, tư duy giải quyết vấn đề, các lĩnh vực quan tâm và năng lực thực thi — trong đó công nghệ thông tin (IT) đóng vai trò là công cụ đòn bẩy mạnh mẽ nhất.
+Đây là một repo (kho lưu trữ) chứa các tài liệu thiết kế, mã nguồn (code) của trang web cá nhân, được bản thân tôi thiết kế và xây dựng cùng với các trợ lý AI.
 
 ---
 
 ## 📌 Tổng quan dự án
 
-- **Mục đích**: Xây dựng không gian số định danh cá nhân, hệ thống hóa kiến thức, lưu trữ các dự án thực tế và chia sẻ góc nhìn đa chiều đến cộng đồng.
+- **Mục đích**: Xây dựng không gian số định danh cá nhân, hệ thống hóa kiến thức, lưu trữ các dự án thực tế, chia sẻ góc nhìn, tính cách, sở thích và các thông tin cá nhân của bản thân tôi.
 - **Đối tượng hướng đến**:
   - **Người xem phổ thông / Nhà tuyển dụng / Đối tác**: Nhanh chóng hiểu rõ con người, giá trị cốt lõi, tư duy và các sản phẩm đã hoàn thiện.
   - **Kỹ sư / Chuyên gia kỹ thuật**: Đánh giá chiều sâu chuyên môn, tiêu chuẩn thiết kế kiến trúc và chất lượng kỹ thuật.
@@ -20,7 +18,7 @@ Dự án này không chỉ đơn thuần là một website portfolio lập trìn
 
 ## 🧭 Cấu trúc kho lưu trữ (Repository Structure)
 
-Dự án áp dụng mô hình **Docs-as-Code** với cấu trúc phân cấp kép: Mỗi mô-đun chủ đề sở hữu một `README.md` tổng quan dành cho con người/AI nắm bắt nhanh, kèm theo các tài liệu kỹ thuật chi tiết (`*.md`) phụ trách từng khía cạnh chuyên sâu.
+Dự án áp dụng mô hình **Docs-as-Code** với cấu trúc phân cấp kép: Mỗi mô-đun chủ đề sở hữu một `README.md` tổng quan mô tả những gì có ở trong phần đó, kèm theo các tài liệu kỹ thuật chi tiết (`*.md`) phụ trách từng khía cạnh chuyên sâu.
 
 ```text
 profile/
